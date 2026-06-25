@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🏦 Senior SAS Developer & Data Analyst at **Wipro Limited**, working with **ICICI Bank** in the BFSI domain
+- 🏦 Senior SAS Developer & Data Analyst, working in the BFSI domain
 - 💡 4+ years of experience in **SAS Development, ETL Pipelines, MIS Reporting Automation, and Power BI Dashboards**
 - 📊 Currently upskilling in **PySpark, Snowflake, and Databricks** — building end-to-end Medallion Architecture (Bronze → Silver → Gold) projects with Delta Lake, Auto Loader, Unity Catalog, and Databricks Workflows
 - ✍️ Creator of **SAS Knowledge Series** — sharing SAS & Data Analytics concepts with the LinkedIn community
