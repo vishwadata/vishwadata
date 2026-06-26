@@ -12,7 +12,7 @@
 
 - 🏦 Senior SAS Developer & Data Analyst, working in the BFSI domain
 - 💡 4+ years of experience in **SAS Development, ETL Pipelines, MIS Reporting Automation, and Power BI Dashboards**
-- 📊 Currently upskilling in **PySpark, Snowflake, and Databricks** — building end-to-end Medallion Architecture (Bronze → Silver → Gold) projects with Delta Lake, Auto Loader, Unity Catalog, and Databricks Workflows
+- 📊 Currently upskilling in **PySpark and Databricks** — building end-to-end Medallion Architecture (Bronze → Silver → Gold) projects with Delta Lake, Auto Loader, Unity Catalog, and Databricks Workflows
 - ✍️ Creator of **SAS Knowledge Series** — sharing SAS & Data Analytics concepts with the LinkedIn community
 - 📸 When I'm not coding, you'll find me behind a **Sony A7C**, exploring photography
 - 🌱 Always mapping new tools back to SAS fundamentals — that's how I learn best
@@ -48,16 +48,32 @@
 - 🔹 **ETL Pipelines** — Designing and automating end-to-end ETL workflows (extract from source systems → cleanse/transform business rules → load into MIS reporting layers), with a focus on reducing manual reporting effort and improving data accuracy
 - 🔹 **PySpark** — Building distributed data transformations using DataFrames, Spark SQL, and structured streaming; translating traditional SAS DATA step logic into scalable PySpark equivalents
 - 🔹 **Databricks** — End-to-end **Medallion Architecture** project (Bronze → Silver → Gold) using Delta Lake for ACID-compliant storage, Auto Loader for incremental ingestion, Unity Catalog for governance, and Databricks Workflows for orchestration — modeled around BFSI data scenarios
-- 🔹 **SAS → Modern Data Stack** — translating SAS PROC concepts into PySpark & Snowflake equivalents
+- 🔹 **SAS → Modern Data Stack** — translating SAS PROC concepts into PySpark & Databricks equivalents
 - 🔹 **SAS Knowledge Series** — carousels and content on PROC REPORT, Pass-Through Facility, SQL, and dataset combining techniques
 
 ---
 
 ## GitHub Stats
 
-![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwadata&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwadata&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwadata&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwadata&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Vishwa's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwadata&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwadata&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwadata&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwadata&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>  -->
 
 ---
 
